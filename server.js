@@ -1,4 +1,6 @@
 const redis = require('redis');
+const redis = require('redis');
+const redis = require('redis');
 const request = require('request');
 const bodyParser = require('body-parser');
 const express = require('express');
